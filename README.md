@@ -115,10 +115,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/vishver308-star/vishver308-star/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div data-importer="activities" align="center" style="width: 100%">
