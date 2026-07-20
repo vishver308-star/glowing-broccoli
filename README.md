@@ -14,10 +14,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">Connect with me :</h3>
-
-###
-
 <br clear="both">
 
 <div data-importer="socials" align="left">
